@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.alpaaka.mvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.alpaaka.mvvmtemplate.MyBundle
 
 class MyApplicationService {
 
